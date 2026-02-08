@@ -1,5 +1,4 @@
 ## Tech Stack
-![Rust](https://img.shields.io/badge/Rust-LocalStorage?style=for-the-badge&logo=rust&logoColor=%23E05D44)
-![TypeScript](https://img.shields.io/badge/TypeScript-LocalStorage?style=for-the-badge&logo=typescript&logoColor=%233178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-LocalStorage?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![egui](https://img.shields.io/badge/egui-LocalStorage?style=for-the-badge&logo=rust&logoColor=white&color=%235c76ff)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=%23E05D44)![egui](https://img.shields.io/badge/egui-black?style=for-the-badge&logo=rust&logoColor=%235c76ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=%233178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
